@@ -19,3 +19,10 @@ media <- function(a, b) {
 }
 
 print(media(10, 20))
+
+
+deviazione_std <- function(c,d) {
+  
+  c+d/2
+  
+}
