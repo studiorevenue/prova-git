@@ -11,3 +11,11 @@ somma_quadrati <- function(a, b) {
 }
 
 print(somma_quadrati(3, 4))
+
+# 23:23 aggiungo media 
+
+media <- function(a, b) {
+  (a + b) / 2
+}
+
+print(media(10, 20))
